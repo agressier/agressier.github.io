@@ -22,6 +22,7 @@ author: Amélie Gressier
 navbar-links:
   Home: "https://agressier.github.io"
   About Me: "aboutme"
+  Publications: "publications"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
