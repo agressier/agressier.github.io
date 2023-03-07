@@ -9,8 +9,6 @@ title: Publications
 For a complete list of publications, here is the link to my [ADS library records](https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22Gressier%2C%20A.%22&sort=date%20desc%2C%20bibcode%20desc).
 
 
-
-
 ### First author publication
 1.	[**Aerosols impact on optical satellite transmission**](https://link.springer.com/article/10.1007/s42496-019-00018-1) (Gressier and Kaillault Aerotecnica Missili & Spazio, Associazione italiana di aeronautica e astronautica, 2019, 98 (3), pp.207-219.)
 
@@ -32,6 +30,15 @@ _I prepared this paper in collaboration with Gloria Guilluy. We present the tran
 
 
 ### Major co-author publication
--
+These papers are part of the work done during the ARIEL Retrieval of Exoplanets School (ARES Summer School) 
+
+6.	[ARES I: WASP-76 b a tale of two HST spectra](https://iopscience.iop.org/article/10.3847/1538-3881/ab9225) (Edwards et al. 2020, The Astronomical Journal, Volume 160, Issue 1, id.8, 14pp.)
+	
+7.	[ARES II: Characterising the Hot Jupiters WASP-127 b, WASP-79 b and WASP-62 b with HST](https://iopscience.iop.org/article/10.3847/1538-3881/ab94a3) (Skaf et al. 2020, The Astronomical Journal, Volume 160, Issue 3, id.109)
+
+8.	[ARES III: Unveiling the two faces of KELT-7 b with HST/WFC3](https://iopscience.iop.org/article/10.3847/1538-3881/aba000) (Pluriel et al. 2020, The Astronomical Journal, Volume 160, Issue 3, id.112)
+
+9.	[ARES V: No evidence for molecular absorption in the HST/WFC3 spectrum of GJ 1132 b](https://iopscience.iop.org/article/10.3847/1538-3881/abc3c8) (Mugnai et al. 2021, The Astronomical Journal, Volume 161, Issue 6, id.284, 13pp)
+
 
 
