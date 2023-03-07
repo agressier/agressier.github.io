@@ -17,7 +17,9 @@ For a complete list of publications, here is the link to my [ADS library records
 2.	[Near-Infrared transmission spectrum of TRAPPIST-1 h using Hubble WFC3 G141](https://www.aanda.org/articles/aa/full_html/2022/02/aa42140-21/aa42140-21.html) (Gressier et al. 2022 Astronomy & Astrophysics Volume 658, id.A133, 25 pp). 
 _This paper presents the first Hubble WFC3 G141 transmission spectrum of a cold, rocky planet, TRAPPIST-1 h. I extracted and corrected the three raw transit observations using the pipeline iraclis. I give the first atmospheric constraint using a Bayesian atmospheric retrieval code. This planet is unlikely to bear a H/He clear dominated atmosphere, but a cloudy/hazy light atmosphere can not be ruled out. The planet might have lost its atmosphere or possesses a secondary N2 or CO2-rich atmosphere_.
 
-3. 
+3.  [The Hubble PanCET Program: The near-UV transmission spectrum of WASP-79 b](https://arxiv.org/abs/2302.08962) (Gressier et al. 2023 Astronomy & Astrophysics). 
+_This paper presents a method to decorrelate the systematics noise from the transit signal and fit light curves of near-UV Hubble STIS E230M observations. I apply the technique to WASP-121 b's observations and confirm the photo-evaporation of its atmosphere previously detected by Sing et al. 2019. Besides, I analysed two unprecedented transit observations of WASP-79 b and observed an increase in the planet-to-star radius ratio at short wavelengths. The difference between the radius ratios at 2400Å and 3000Å reaches 0.0191±0.0042 (4.5 sigma). Although the NUV transmission spectrum does not show evidence of hydrodynamical escape, the strong atmospheric features are likely due to species at very high altitudes. The comparison of WASP-79 b's transmission spectrum with three other warmer Hot-Jupiters shows a similar absorption level to WASP-178 b and WASP-121 b._
+
 
 
 
