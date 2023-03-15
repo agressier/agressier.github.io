@@ -6,7 +6,7 @@ title: Publications
 
 
 
-For a complete list of publications, here is the link to my [ADS library records](https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22Gressier%2C%20A.%22&sort=date%20desc%2C%20bibcode%20desc).
+For a complete list of publications, here is the link to my [ADS library records](https://ui.adsabs.harvard.edu/public-libraries/tfJK0bymRzuqP0iJB5TVLg).
 
 
 ### First author publication
