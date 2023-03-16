@@ -7,18 +7,20 @@ title: CV
 Space Telescope Science Institute (STScI)| (Baltimore, USA)
 2023-2025 
 
+[Thesis manuscript here](https://theses.hal.science/tel-04029295v1/document)
+
 
 ### Education
 #### PhD in Astrophysics and Astronomy at the University Versailles Saint-Quentin-en-Yvelines, France 
 2019-2022 
 Supervisors: Emmanuel Marcq (LATMOS), Jean-Philippe Beaulieu (IAP) and Benjamin Charnay (LESIA)
 
-•	Hubble Space Telescope WFC3 and STIS transmission spectroscopy data analysis
-•	CHEOPS photometric measurement analysis 
-•	Re-analysis of 26 HST transmission spectra from Super-Earth to Sub-Neptune
-•	ARIEL and JWST planetary transit simulations
-•	Radiative and convective atmospheric modelling 
-•	Impact of radiative clouds and photochemical hazes in warm Sub-Neptune transmission spectra
+•	Hubble Space Telescope WFC3 and STIS transmission spectroscopy data analysis  
+•	CHEOPS photometric measurement analysis  
+•	Re-analysis of 26 HST transmission spectra from Super-Earth to Sub-Neptune. 
+•	ARIEL and JWST planetary transit simulations  
+•	Radiative and convective atmospheric modelling  
+•	Impact of radiative clouds and photochemical hazes in warm Sub-Neptune transmission spectra  
 
 #### Master degree in Astrophysics-Planetology in Observatoire de Paris, Paris, France 
 2018-2019
